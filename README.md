@@ -1,5 +1,8 @@
 <h1 align="center">Yooo ! 👋, moi c'est JokerDev</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="center" src="https://raw.githubusercontent.com/Kamasian/kamasian/main/WS2c.gif" alt="Joker" />
+
+<h3 align="center">Beep Bop A Bee Bop A Loula !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamasian&label=Profile%20views&color=0e75b6&style=flat" alt="kamasian" /> </p>
 
@@ -15,6 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamasian&show_icons=true&locale=en&layout=compact" alt="kamasian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamasian&show_icons=true&locale=en" alt="kamasian" /></p>
-
-
-<img align="center" src="https://raw.githubusercontent.com/Kamasian/kamasian/main/Bgxt.gif" alt="Joker" />
