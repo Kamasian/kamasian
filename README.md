@@ -17,4 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamasian&show_icons=true&locale=en" alt="kamasian" /></p>
 
 
-<img align="center" src="https://i.gifer.com/Bgxt.gif" alt="Joker" />
+<img align="center" src="https://github.com/Kamasian/kamasian/blob/main/Bgxt.gif" alt="Joker" />
