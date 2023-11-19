@@ -1,7 +1,8 @@
 <h1 align="center">Yooo ! 👋, moi c'est JokerDev</h1>
 
-<img align="center" src="https://raw.githubusercontent.com/Kamasian/kamasian/main/WS2c.gif" alt="Joker" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kamasian/kamasian/main/WS2c.gif" alt="Joker" />
+</p>
 <h3 align="center">Beep Bop A Bee Bop A Loula !!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamasian&label=Profile%20views&color=0e75b6&style=flat" alt="kamasian" /> </p>
